@@ -42,7 +42,7 @@ let userone = {
     email: "usergoogle.com",
     upi: "user@ybl"
 }
-letuserTwo = userone
+let userTwo = userone
 userTwo.email = "harryrana529@email,com"
 
 
